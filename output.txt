@@ -1,0 +1,22 @@
+n= 61, lambda1 = 60.9296, lambda2 = 8.5341, RMSE=3.9760
+n= 53, lambda1 = 52.6320, lambda2 = 8.6309, RMSE=3.9137
+n= 54, lambda1 = 53.9446, lambda2 = 7.8538, RMSE=3.7439
+n= 48, lambda1 = 47.8860, lambda2 = 6.8910, RMSE=4.1180
+n= 43, lambda1 = 43.2773, lambda2 = 6.2748, RMSE=3.7137
+n= 38, lambda1 = 38.3299, lambda2 = 7.1049, RMSE=3.8568
+n= 45, lambda1 = 44.7698, lambda2 = 6.3648, RMSE=3.7417
+n= 51, lambda1 = 50.7454, lambda2 = 8.2162, RMSE=3.8536
+n= 54, lambda1 = 53.6226, lambda2 = 7.7604, RMSE=3.6991
+n= 49, lambda1 = 48.6413, lambda2 = 8.5024, RMSE=3.8210
+n= 41, lambda1 = 40.9734, lambda2 = 7.2492, RMSE=3.7705
+n= 54, lambda1 = 53.7088, lambda2 = 7.0838, RMSE=3.8330
+n= 120, lambda1 = 120.0000, lambda2 = 10.5312, RMSE=4.2983
+n= 39, lambda1 = 39.3296, lambda2 = 6.5978, RMSE=3.5438
+n= 42, lambda1 = 42.4757, lambda2 = 6.4142, RMSE=3.7594
+n= 40, lambda1 = 39.8348, lambda2 = 6.8637, RMSE=3.7383
+n= 43, lambda1 = 42.8938, lambda2 = 6.0039, RMSE=3.7815
+n= 36, lambda1 = 35.6305, lambda2 = 6.9294, RMSE=3.9843
+n= 41, lambda1 = 40.9082, lambda2 = 8.0510, RMSE=3.8837
+n= 31, lambda1 = 31.3121, lambda2 = 7.1906, RMSE=3.7925
+				****Best Solution****
+ n= 39, lambda1 = 6.5978, lambda2 = 11.8009, RMSE=3.5438
