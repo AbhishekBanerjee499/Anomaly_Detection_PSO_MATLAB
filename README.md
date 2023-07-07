@@ -14,5 +14,6 @@ Knowing some unfortunate event occurred to the person within 120 days, the objec
 
 **Result:** Lowest RMSE error = 3.544, n = 39 or event occurred at 40th day, $\lambda_1 = 6.598, \lambda_2 = 11.801$.
 
-_Input:_ sms_data.txt
-_Output:_ output.txt
+**_Input:_** sms_data.txt
+
+**_Output:_** output.txt
